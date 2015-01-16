@@ -1,3 +1,13 @@
 git user list :
 1. ver. control system
-2. 
+2. git init for repository
+3. git status (untracked file)
+4. git add /add. adding file 
+5. git commit
+6. git config --global user.name/user.email ""
+7. rm file name for delete file
+8. cd to change file path
+9. commit initial/ 
+   write message then esc key
+	:w for write
+	:q for quit
